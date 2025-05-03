@@ -133,4 +133,4 @@ final class MotionAnimatorTests: XCTestCase {
 
 ## **Licencia**
 
-MIT © [Tu nombre]
+MIT © Matías Adrián Molina
